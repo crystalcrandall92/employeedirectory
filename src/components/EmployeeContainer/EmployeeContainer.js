@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { DataGrid } from "@material-ui/data-grid";
+import { DataGrid} from "@material-ui/data-grid";
 import "../css/styles.css";
 
 // Style settings for DataGrid can be found at 
