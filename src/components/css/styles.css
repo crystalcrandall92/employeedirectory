@@ -1,0 +1,20 @@
+.header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+.employeeContainer {
+    margin: auto;
+    width: 60%;
+}
+
+.searchStyle {
+    margin: auto;
+}
+
+.center {
+    text-align: center;
+}
