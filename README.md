@@ -1,4 +1,4 @@
-# Budget-Me 
+# Employee Directory
 
 ## Table of Contents
 1. [Description](#description)
